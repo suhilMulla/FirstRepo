@@ -1,0 +1,31 @@
+
+squid:S4276 "\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(á²ŸŒ8”«Ò³ì-HÀRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë´Ë©ıÿÿÿÿ8”«Ò³ì-HÁRMAJORZ
+CODE_SMELL
+”squid:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(¶¾š—úÿÿÿÿ8”«Ò³ì-HÂRMINORZ
+CODE_SMELL
+ƒsquid:S00100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÙƒ€8”«Ò³ì-HÃRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÒâ¯8ïÛ³ì-HÄRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù¸™ÁúÿÿÿÿHÅRMINORZ
+CODE_SMELL
+ksquid:S4973"9Use the "equals" method if value comparison was intended.(¸ßá«üÿÿÿÿ8”«Ò³ì-HÆRMAJORZBUG
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ƒòŠ²8”«Ò³ì-HÇRMAJORZ
+CODE_SMELL
+hsquid:EmptyStatementUsageCheck"Remove this empty statement.(¸ßá«üÿÿÿÿ8”«Ò³ì-HÈRMINORZ
+CODE_SMELL
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üŠ¾ñ8”«Ò³ì-HÉRMINORZ
+CODE_SMELL
+†squid:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¦†ôş8”«Ò³ì-HÊRMINORZ
+CODE_SMELL
+‡squid:S1602 "SRemove useless curly braces around statement and then remove useless return keyword(á²ŸŒ8”«Ò³ì-HËRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞÕä°8”«Ò³ì-HÌRMAJORZ
+CODE_SMELL

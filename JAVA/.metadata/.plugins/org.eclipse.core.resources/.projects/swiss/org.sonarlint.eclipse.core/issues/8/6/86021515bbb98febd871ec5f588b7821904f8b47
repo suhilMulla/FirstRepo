@@ -1,0 +1,162 @@
+
+wsquid:S2095Õ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ñÇ¨î8ÚßşÍí-HRBLOCKERZBUG
+l
+squid:S1063"9Replace this use of System.out or System.err by a logger.(‘ˆ÷ğ8×Ææ¬í-H‚RMAJORZ
+CODE_SMELL
+l
+squid:S106;"9Replace this use of System.out or System.err by a logger.(ÄœªÜ8ÒÕı®í-HƒRMAJORZ
+CODE_SMELL
+zsquid:HiddenFieldCheckI"6Rename "st" which hides the field declared at line 17.(šÁÑüÿÿÿÿ8ş¿ß¬í-H„RMAJORZ
+CODE_SMELL
+{squid:HiddenFieldCheckŒ"6Rename "st" which hides the field declared at line 17.(šÁÑüÿÿÿÿ8ãøÁ°í-H…RMAJORZ
+CODE_SMELL
+r
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ÚßşÍí-H†RMAJORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Æ¡ö8×Ææ¬í-H‡RMAJORZ
+CODE_SMELL
+‡squid:S00117ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß†ë‚8®îĞí-HˆRMINORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ì×¥úşÿÿÿÿ8×Ææ¬í-H‰RMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(æôäûúÿÿÿÿ8×Ææ¬í-HŠRMAJORZ
+CODE_SMELL
+’squid:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(´„ëØüÿÿÿÿ8”Şß­í-H‹RMINORZ
+CODE_SMELL
+fsquid:S1905Œ",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8ãøÁ°í-HŒRMINORZ
+CODE_SMELL
+fsquid:S1905µ",Remove this unnecessary cast to "Statement".(ÄŒ–Ùşÿÿÿÿ8ÌÚËí-HRMINORZ
+CODE_SMELL
+|squid:S2095Å"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÅŠÆ½ùÿÿÿÿ8ÌÚËí-HRBLOCKERZBUG
+zsquid:HiddenFieldCheckJ"6Rename "rs" which hides the field declared at line 18.(ÄŒ–Ùşÿÿÿÿ8ş¿ß¬í-HRMAJORZ
+CODE_SMELL
+q
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÓÅŞ¤øÿÿÿÿ8×Ææ¬í-HRMAJORZ
+CODE_SMELL
+fsquid:S1905Ü",Remove this unnecessary cast to "Statement".(°Óº€øÿÿÿÿ8¿ÁÓĞí-H‘RMINORZ
+CODE_SMELL
+vsquid:S2095Í"GUse try-with-resources or close this "Statement" in a "finally" clause.(ş­¿Y8í—¡Ïí-H’RBLOCKERZBUG
+‹squid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªî·èùÿÿÿÿ8Ÿö÷¯í-H“RMINORZ
+CODE_SMELL
+zsquid:HiddenFieldCheck%"6Rename "rs" which hides the field declared at line 18.(ÄŒ–Ùşÿÿÿÿ8”Š°«í-H”RMAJORZ
+CODE_SMELL
+wsquid:S2095Æ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(É×‡¥8ÌÚËí-H•RBLOCKERZBUG
+wsquid:S2095İ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(‰¤Ùµ8¿ÁÓĞí-H–RBLOCKERZBUG
+|squid:S2095µ"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒ–Ùşÿÿÿÿ8ÌÚËí-H—RBLOCKERZBUG
+‡squid:S00117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…„Çß8¿ÁÓĞí-H˜RMINORZ
+CODE_SMELL
+l
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‰´ÆÛ8×Ææ¬í-H™RMAJORZ
+CODE_SMELL
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(•íÛõ8×Ææ¬í-HšRMAJORZ
+CODE_SMELL
+r
+squid:S106»"9Replace this use of System.out or System.err by a logger.(²ŠÖ€üÿÿÿÿ8ÌÚËí-H›RMAJORZ
+CODE_SMELL
+l
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Ê¹•ê8ş¿ß¬í-HœRMAJORZ
+CODE_SMELL
+fsquid:S1905ò",Remove this unnecessary cast to "Statement".(ğŸÍàüÿÿÿÿ8®îĞí-HRMINORZ
+CODE_SMELL
+l
+squid:S106u"9Replace this use of System.out or System.err by a logger.(ÄœªÜ8×Ææ¬í-HRMAJORZ
+CODE_SMELL
+m
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¥çÊï8¸ßŠÌí-HŸRMAJORZ
+CODE_SMELL
+|squid:S2095ò"GUse try-with-resources or close this "Statement" in a "finally" clause.(ğŸÍàüÿÿÿÿ8®îĞí-H RBLOCKERZBUG
+{squid:HiddenFieldCheckµ"6Rename "rs" which hides the field declared at line 18.(ÄŒ–Ùşÿÿÿÿ8ÌÚËí-H¡RMAJORZ
+CODE_SMELL
+|squid:S2095Œ"GUse try-with-resources or close this "Statement" in a "finally" clause.(šÁÑüÿÿÿÿ8ãøÁ°í-H¢RBLOCKERZBUG
+m
+squid:S106À"9Replace this use of System.out or System.err by a logger.(ÌÜà„8ÌÚËí-H£RMAJORZ
+CODE_SMELL
+{squid:S2095I"GUse try-with-resources or close this "Statement" in a "finally" clause.(šÁÑüÿÿÿÿ8Ÿö÷¯í-H¤RBLOCKERZBUG
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¤›¤£ÿÿÿÿÿ8ş¿ß¬í-H¥RMAJORZ
+CODE_SMELL
+{squid:S2095J"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒ–Ùşÿÿÿÿ8ş¿ß¬í-H¦RBLOCKERZBUG
+m
+squid:S106ù"9Replace this use of System.out or System.err by a logger.(¥çÊï8’õÜÏí-H§RMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ì¶½Å8×Ææ¬í-H¨RMAJORZ
+CODE_SMELL
+‡squid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö£——8À—÷®í-H©RMINORZ
+CODE_SMELL
+‡squid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç’½ÿ8ÚßşÍí-HªRMINORZ
+CODE_SMELL
+šsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(â²íÙÿÿÿÿÿ8”Š°«í-H«RMINORZ
+CODE_SMELL
+|squid:S2095Ü"GUse try-with-resources or close this "Statement" in a "finally" clause.(°Óº€øÿÿÿÿ8¿ÁÓĞí-H¬RBLOCKERZBUG
+{squid:HiddenFieldCheck"6Rename "rs" which hides the field declared at line 18.(ÄŒ–Ùşÿÿÿÿ8ãøÁ°í-H­RMAJORZ
+CODE_SMELL
+m
+squid:S106·"9Replace this use of System.out or System.err by a logger.(ıÒŸÊ8ÌÚËí-H®RMAJORZ
+CODE_SMELL
+zsquid:HiddenFieldCheck$"6Rename "st" which hides the field declared at line 17.(šÁÑüÿÿÿÿ8”Š°«í-H¯RMAJORZ
+CODE_SMELL
+|squid:S2095´"GUse try-with-resources or close this "Statement" in a "finally" clause.(šÁÑüÿÿÿÿ8ÌÚËí-H°RBLOCKERZBUG
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(¹óõêÿÿÿÿÿ8×Ææ¬í-H±RMAJORZ
+CODE_SMELL
+esquid:S1905I",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8ş¿ß¬í-H²RMINORZ
+CODE_SMELL
+‹squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÈçÆşÿÿÿÿ8®ÃÆ«í-H³RMINORZ
+CODE_SMELL
+r
+squid:S106”"9Replace this use of System.out or System.err by a logger.(Ş¢™†üÿÿÿÿ8¶œ±°í-H´RMAJORZ
+CODE_SMELL
+fsquid:S1905Å",Remove this unnecessary cast to "Statement".(ÅŠÆ½ùÿÿÿÿ8¼×ëÎí-HµRMINORZ
+CODE_SMELL
+r
+squid:S106Ê"9Replace this use of System.out or System.err by a logger.(ß’üûÿÿÿÿ8¾ÁÏí-H¶RMAJORZ
+CODE_SMELL
+fsquid:S1905Ó",Remove this unnecessary cast to "Statement".(ãÿ…”ùÿÿÿÿ8ÌÚËí-H·RMINORZ
+CODE_SMELL
+`squid:S1905Í",Remove this unnecessary cast to "Statement".(ş­¿Y8ÌÚËí-H¸RMINORZ
+CODE_SMELL
+|squid:S2095¾"GUse try-with-resources or close this "Statement" in a "finally" clause.(½¡‘¹ûÿÿÿÿ8ÌÚËí-H¹RBLOCKERZBUG
+m
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(ÄœªÜ8Ÿö÷¯í-HºRMAJORZ
+CODE_SMELL
+|squid:S2095Ó"GUse try-with-resources or close this "Statement" in a "finally" clause.(ãÿ…”ùÿÿÿÿ8ÚßşÍí-H»RBLOCKERZBUG
+esquid:S1905J",Remove this unnecessary cast to "Statement".(ÄŒ–Ùşÿÿÿÿ8ş¿ß¬í-H¼RMINORZ
+CODE_SMELL
+fsquid:S1905´",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8ÚßşÍí-H½RMINORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(«Ü€åøÿÿÿÿ8×Ææ¬í-H¾RMAJORZ
+CODE_SMELL
+esquid:S1905$",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8”Š°«í-H¿RMINORZ
+CODE_SMELL
+asquid:S1905ä",Remove this unnecessary cast to "Statement".(¨Ê‰÷8ÌÚËí-HÀRMINORZ
+CODE_SMELL
+r
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(¶§Ÿşÿÿÿÿ8¥´ëÏí-HÁRMAJORZ
+CODE_SMELL
+wsquid:S2095ä"GUse try-with-resources or close this "Statement" in a "finally" clause.(¨Ê‰÷8ÌÚËí-HÂRBLOCKERZBUG
+{squid:S2095%"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒ–Ùşÿÿÿÿ8”Š°«í-HÃRBLOCKERZBUG
+fsquid:S1905¾",Remove this unnecessary cast to "Statement".(½¡‘¹ûÿÿÿÿ8ÌÚËí-HÄRMINORZ
+CODE_SMELL
+Œsquid:S00117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿™¡öşÿÿÿÿ8ÌÚËí-HÅRMINORZ
+CODE_SMELL
+{squid:HiddenFieldCheck´"6Rename "st" which hides the field declared at line 17.(šÁÑüÿÿÿÿ8ÌÚËí-HÆRMAJORZ
+CODE_SMELL
+fsquid:S1905",Remove this unnecessary cast to "Statement".(ÄŒ–Ùşÿÿÿÿ8ãøÁ°í-HÇRMINORZ
+CODE_SMELL
+l
+squid:S106."9Replace this use of System.out or System.err by a logger.(Úş¹š8‚Şš¬í-HÈRMAJORZ
+CODE_SMELL
+esquid:S1905%",Remove this unnecessary cast to "Statement".(ÄŒ–Ùşÿÿÿÿ8”Š°«í-HÉRMINORZ
+CODE_SMELL
+ksquid:S1135®"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8Ûå³«í-HÊRINFOZ
+CODE_SMELL
+{squid:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(šÁÑüÿÿÿÿ8”Š°«í-HËRBLOCKERZBUG
+ˆsquid:S1192;"QDefine a constant instead of duplicating this literal "exception caught" 3 times.(ÄœªÜ8Ÿö÷¯í-HÌRCRITICALZ
+CODE_SMELL
+|squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒ–Ùşÿÿÿÿ8ãøÁ°í-HÍRBLOCKERZBUG

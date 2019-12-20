@@ -1,0 +1,15 @@
+.red{
+	color:red;
+	background: skyblue;
+	text-align: center;
+}
+
+.thick{
+	font-style: italic;
+	font-size: 20px;
+}
+
+.green{
+	color: darkgreen;
+	font-size: 25;
+}

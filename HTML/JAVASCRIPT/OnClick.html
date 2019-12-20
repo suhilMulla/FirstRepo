@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>GetValueOnClick</title>
+</head>
+<body>
+
+	Number 1:<input type="text" name="a" id="p1"><br><br>
+	Number 2:<input type="text" name="b" id="p2"><br><br>
+	Sum:<input type="text" name="c" id="p3"><br><br>
+
+	<input type="button" name="s1" id="id1" onclick="Sum()" value="Click For Sum">
+	
+	<script type="text/javascript">
+		
+		function Sum() {
+			var x=(document.getElementById("p1").value);
+			var y=(document.getElementById("p2").value);
+			var sum;
+			sum=Number(x)+Number(y);
+			document.getElementById("p3").value=sum;
+		}
+		
+	</script>
+</body>
+</html>

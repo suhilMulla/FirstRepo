@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Array</title>
+</head>
+<body>
+	<p id="d4">Country Names:</p>
+	<input type="button" name="a" value="Click for Country Names" id="C1" onclick="ConName()">
+
+	<script type="text/javascript">
+		
+		function ConName() {
+			var Country=["India", "USA", "China", "Singapore", "Russia"];
+			var text="";
+			for(var i=0; i<Country.length; i++)
+			{
+				text+=Country[i]+"<br>";
+			}
+			document.getElementById("d4").innerHTML=text;
+		}
+		
+
+	</script>
+</body>
+</html>

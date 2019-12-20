@@ -1,0 +1,19 @@
+<h1>This is Angular for {{title}}</h1>
+<p>{{City}}</p>
+<p>{{State}}</p>
+<p>{{Country}}</p>
+<app-red></app-red><br>
+<div app-blue></div>
+<app-green></app-green><br>
+
+<input type="text" placeholder="Names" [(ngModel)]="currentNames">
+<button (click)="add()">Add Name</button>
+<li *ngFor ="let Names of studentNames">{{Names}}</li>
+<p>Length of Araay is: {{studentNames.length}}</p><br>
+
+Enter A: <input type="number" placeholder="a" [(ngModel)]="x"> <br><br>
+Enter B: <input type="number" placeholder="b" [(ngModel)]="y"> <br><br>
+Sum is : <input type="number" placeholder="Sum" value="{{x+y}}"> <br><br>
+
+
+

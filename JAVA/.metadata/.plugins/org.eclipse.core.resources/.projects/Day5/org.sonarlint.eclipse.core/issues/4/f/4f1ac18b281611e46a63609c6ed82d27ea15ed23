@@ -1,0 +1,91 @@
+
+k
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ÔîÌ(8½ç°Ùì-H¨RMAJORZ
+CODE_SMELL
+‹squid:S00117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨éğ®ùÿÿÿÿ8Œ¤Ùì-H©RMINORZ
+CODE_SMELL
+l
+squid:S106="9Replace this use of System.out or System.err by a logger.(§Œ°8Çø–Õì-HªRMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8´ıØì-H«RMAJORZ
+CODE_SMELL
+l
+squid:S106_"9Replace this use of System.out or System.err by a logger.(¹éïï8½ç°Ùì-H¬RMAJORZ
+CODE_SMELL
+q
+squid:S1067"9Replace this use of System.out or System.err by a logger.(á³Õöûÿÿÿÿ8õÒìØì-H­RMAJORZ
+CODE_SMELL
+l
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¹éïï8˜˜ôØì-H®RMAJORZ
+CODE_SMELL
+k
+squid:S106]"9Replace this use of System.out or System.err by a logger.(ëš¸}8ä²¥Ùì-H¯RMAJORZ
+CODE_SMELL
+dsquid:S3655K"7Call "Optional#isPresent()" before accessing the value.(€ŸÊ 8õÒìØì-H°RMAJORZBUG
+l
+squid:S1069"9Replace this use of System.out or System.err by a logger.(¹éïï8Çø–Õì-H±RMAJORZ
+CODE_SMELL
+q
+squid:S106l"9Replace this use of System.out or System.err by a logger.(›‡–Âşÿÿÿÿ8œôÆÙì-H²RMAJORZ
+CODE_SMELL
+Œsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïÿ8¦±‹Ôì-H³RMINORZ
+CODE_SMELL
+l
+squid:S106f"9Replace this use of System.out or System.err by a logger.(¹éïï8œôÆÙì-H´RMAJORZ
+CODE_SMELL
+l
+squid:S1060"9Replace this use of System.out or System.err by a logger.(Ç×Â8ïèÌØì-HµRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(à¿ãüüÿÿÿÿ8´Ç˜Õì-H¶RMAJORZ
+CODE_SMELL
+l
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¹éïï8Œ¤Ùì-H·RMAJORZ
+CODE_SMELL
+l
+squid:S106I"9Replace this use of System.out or System.err by a logger.(×òÈ™8Çø–Õì-H¸RMAJORZ
+CODE_SMELL
+l
+squid:S106O"9Replace this use of System.out or System.err by a logger.(¹éïï8¼ÿ¶Øì-H¹RMAJORZ
+CODE_SMELL
+}squid:UselessImportCheck"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8Œ¤Ùì-HºRMINORZ
+CODE_SMELL
+†squid:S001172"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Ïš‚8ïèÌØì-H»RMINORZ
+CODE_SMELL
+…squid:S00117h"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÌÇ*8œôÆÙì-H¼RMINORZ
+CODE_SMELL
+q
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Ó›¬œøÿÿÿÿ8õÒìØì-H½RMAJORZ
+CODE_SMELL
+†squid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¶Ö—8½ç°Ùì-H¾RMINORZ
+CODE_SMELL
+‚squid:S1192/"KDefine a constant instead of duplicating this literal "**********" 8 times.(¹éïï8ˆêĞØì-H¿RCRITICALZ
+CODE_SMELL
+dsquid:S3655G"7Call "Optional#isPresent()" before accessing the value.(Ìô¬ç8˜˜ôØì-HÀRMAJORZBUG
+l
+squid:S106V"9Replace this use of System.out or System.err by a logger.(¹éïï8Î™Õì-HÁRMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(à¿öÑúÿÿÿÿ8Çø–Õì-HÂRMAJORZ
+CODE_SMELL
+q
+squid:S106T"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ8”‘¥Ôì-HÃRMAJORZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÙÍÁ8Å½—Õì-HÄRMINORZ
+CODE_SMELL
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(†™ñ‹8‚®ĞØì-HÅRMAJORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•¨¾Òıÿÿÿÿ8Å½—Õì-HÆRMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿHÇRMINORZ
+CODE_SMELL
+zsquid:UselessImportCheck"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8â”Õì-HÈRMINORZ
+CODE_SMELL
+l
+squid:S106E"9Replace this use of System.out or System.err by a logger.(¹éïï8´ıØì-HÉRMAJORZ
+CODE_SMELL
+q
+squid:S106M"9Replace this use of System.out or System.err by a logger.(™›ØÓûÿÿÿÿ8ïèÌØì-HÊRMAJORZ
+CODE_SMELL

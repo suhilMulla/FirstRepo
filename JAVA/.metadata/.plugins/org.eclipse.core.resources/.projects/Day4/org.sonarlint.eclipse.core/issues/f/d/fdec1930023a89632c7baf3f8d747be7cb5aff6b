@@ -1,0 +1,37 @@
+
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(İ•ÉÎúÿÿÿÿ8ï‚…ªì-HñRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÕÈš8ñ©Æ¨ì-HÔRMAJORZ
+CODE_SMELL
+ƒsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ÖĞé8ñ©Æ¨ì-HÒRMINORZ
+CODE_SMELL
+Zsquid:S1481#"&Remove this unused "x" local variable.(ï»Šó8•÷Ú¨ì-HèRMINORZ
+CODE_SMELL
+€squid:S00112!"FDefine and throw a dedicated exception instead of using a generic one.(¨¸âüÿÿÿÿ8¼ÛĞ¨ì-HŞRMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¾Š£8¼ÛĞ¨ì-HáRMAJORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆïòıÿÿÿÿ8ñ©Æ¨ì-HÕRMINORZ
+CODE_SMELL
+isquid:S1854#"5Remove this useless assignment to local variable "x".(ï»Šó8•÷Ú¨ì-HçRMAJORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck!"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨¸âüÿÿÿÿ8¼ÛĞ¨ì-HßRMINORZ
+CODE_SMELL
+ˆsquid:S00100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Û¤¯ıÿÿÿÿ8ï‚…ªì-HğRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(„®ßåøÿÿÿÿ8ñ©Æ¨ì-HÖRMAJORZ
+CODE_SMELL
+~squid:S3973)"GUse indentation to denote the code conditionally executed by this "if".(±Š¦£8ï‚…ªì-HïRCRITICALZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÛÓ„¿HÏRMINORZ
+CODE_SMELL
+ˆsquid:S00100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¸âüÿÿÿÿ8¼ÛĞ¨ì-HàRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ8ñ©Æ¨ì-HÓRMAJORZ
+CODE_SMELL
+ssquid:S3518#"CMake sure this expression can't be zero before doing this division.(ï»Šó8–ñ‹ªì-HøRCRITICALZBUG

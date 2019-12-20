@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Options</title>
+</head>
+<body>
+	<!--<select id="123">
+	</select>
+
+	<button type="button" onclick="aa()"> Check array</button>
+	<script type="text/javascript">
+		function aa(){
+			var select=document.getElementById("123");
+			arr=["HTML","JS","JAVA","C++","SQL"];
+
+			for(var i=0; i<arr.length; i++)
+			{
+				var option=document.createElement("OPTION");
+				txt=document.createTextNode(arr[i]);
+				option.appendChild(txt);
+				option.setAttribute("value",arr[i]);
+				select.insertBefore(option,select.firstChild);
+			}
+		}
+
+	</script><!-->
+
+	<div id="wrapper"></div>
+	<input type="button" onclick="rd()" value="Click"></input>
+	<script type="text/javascript">
+		function rd() {
+			var myArray = ["Upasana","Suhil","Prajwal"];
+
+			var wrapper = document.getElementById('wrapper');
+
+   			var elementsToInsert = [];
+
+
+			for(var i = 0; i < myArray.length; i++) {
+			  var radio = document.createElement('input');
+			  var label = document.createElement('label');
+			  radio.type = 'radio';
+			  radio.name = "as";
+			  radio.value = myArray[i];
+
+			  label.setAttribute("for", myArray[i]);
+			  label.innerHTML = myArray[i];
+
+			  elementsToInsert.push({ label: label, radio: radio });
+			}
+
+
+			while(elementsToInsert.length !== 0) {
+			  var randomIndex = Math.floor(Math.random() * elementsToInsert.length);
+
+			 
+			  var toInsert = elementsToInsert.splice(randomIndex, 1)[0];
+
+			  wrapper.appendChild(toInsert.label);
+			  wrapper.appendChild(toInsert.radio);
+			}
+		}
+	</script>
+</body>
+</html>
+    
+</body>
+</html>

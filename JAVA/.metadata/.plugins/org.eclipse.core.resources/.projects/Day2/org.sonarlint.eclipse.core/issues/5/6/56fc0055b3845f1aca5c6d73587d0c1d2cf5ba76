@@ -1,0 +1,12 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Û“ìùÿÿÿÿH´RMINORZ
+CODE_SMELL
+¢"squid:ClassVariableVisibilityCheck"UMake fragrance a static final constant or non-public and provide accessors if needed.(†Şì8€¢Àë-HµRMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(şÏÓû8æ°§ë-H¶RMAJORZ
+CODE_SMELL
+ssquid:S1161":Add the "@Override" annotation above this method signature(›ôã‘ÿÿÿÿÿ8æ°§ë-H·RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(½Ğª‰şÿÿÿÿ8€¢Àë-H¸RMAJORZ
+CODE_SMELL

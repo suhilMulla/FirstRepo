@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>StudentsAverage</title>
+	<script type="text/javascript">
+		var employee=new Object();
+		employee.ffname="John Wick";
+		employee.id=456;
+		employee.fixed=500000;
+		employee.variable=100000;
+		employee.bonus=50000;
+
+		employee.montlySalary=function () {
+			return(employee.fixed+employee.variable)/12;
+		};
+
+		employee.yearlySalary=function () {
+			return((employee.fixed+employee.variable)*12)+employee.bonus;
+		};
+
+		employee.display=function () {
+			document.write("Employee name=: "+employee.ffname+"<br>")
+			document.write("Employee id: "+employee.id+"<br>");
+			var ms=employee.montlySalary();
+			var ys=employee.yearlySalary();
+			document.write("Monthly Salary: "+ms+"<br>");
+			document.write("Yearly Salary: "+ys+"<br>");
+		}
+
+		employee.display();
+	</script>
+</head>
+<body>
+
+</body>
+</html>

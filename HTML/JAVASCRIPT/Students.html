@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Students</title>
+	<script type="text/javascript">
+		var students=new Array("Aaa","Bbb","Ccc","Ddd","Eee");
+		Array.prototype.method_name = function() {
+			for(i=0; i<this.length; i++)
+			{
+				document.write(this[i]+"<br/>");
+			}
+		}
+		document.write("Students Array<br/>");
+		students.method_name();
+		document.write("<br/>Size of Array: "+students.length+"<br/>" );
+		document.write("<br/>Sorted Array<br/>");
+		students.sort();
+		students.method_name();
+		document.write("<br/>Reversed Array<br/>");
+		students.reverse();
+		students.method_name();
+		document.write("<br/>Array after removing last item<br/>");
+		students.pop();
+		students.method_name();
+		document.write("<br/>Array after push<br/>");
+		students.push("Fff");
+		students.method_name();
+		
+	</script>
+</head>
+<body>
+
+
+</body>
+</html>

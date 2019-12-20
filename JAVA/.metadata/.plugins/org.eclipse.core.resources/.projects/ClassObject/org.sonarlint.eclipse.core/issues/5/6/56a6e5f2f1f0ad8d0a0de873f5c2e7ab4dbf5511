@@ -1,0 +1,22 @@
+
+p
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(Ы“ѓЃьяяяя8є’пбк-H2RMAJORZ
+CODE_SMELL
+њ"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(ЧБтї8є’пбк-H0RMINORZVULNERABILITY
+ќ"squid:ClassVariableVisibilityCheck"PMake name a static final constant or non-public and provide accessors if needed.( юНѕ8є’пбк-H/RMINORZVULNERABILITY
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ўЈ”е8є’пбк-H5RMAJORZ
+CODE_SMELL
+Ј"squid:ClassVariableVisibilityCheck"QMake place a static final constant or non-public and provide accessors if needed.(µК дьяяяя8є’пбк-H1RMINORZVULNERABILITY
+Њsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ў™ЪљыяяяяH	RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(°віС8є’пбк-H4RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(”чдЇ8јАЉвк-H7RMAJORZ
+CODE_SMELL
+p
+squid:S106"9Replace this use of System.out or System.err by a logger.(лч‹Ыяяяяя8є’пбк-H3RMAJORZ
+CODE_SMELL

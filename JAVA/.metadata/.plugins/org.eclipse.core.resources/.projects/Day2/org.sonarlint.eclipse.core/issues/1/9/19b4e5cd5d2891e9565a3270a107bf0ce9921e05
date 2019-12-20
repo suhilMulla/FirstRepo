@@ -1,0 +1,13 @@
+
+"squid:ClassVariableVisibilityCheck"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿8¬£Íë-H®RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜¾±çúÿÿÿÿ8°š ë-H¯RMAJORZ
+CODE_SMELL
+£"squid:ClassVariableVisibilityCheck"PMake type a static final constant or non-public and provide accessors if needed.(ÙşÓ¼ûÿÿÿÿ8¬£Íë-H°RMINORZVULNERABILITY
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Û“ìùÿÿÿÿH±RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷•Ü'8¬£Íë-H²RMAJORZ
+CODE_SMELL
+ssquid:S1161":Add the "@Override" annotation above this method signature(›ôã‘ÿÿÿÿÿ8á‰é«ë-H³RMAJORZ
+CODE_SMELL

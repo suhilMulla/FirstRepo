@@ -1,0 +1,4 @@
+
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆ×ì©í-H´RMINORZVULNERABILITY
+Ysquid:S2068" Remove this hard-coded password.(ò¥¤İ8ˆ×ì©í-HµRBLOCKERZVULNERABILITY
+squid:S2068"Q'Pwd' detected in this expression, review this potentially hard-coded credential.(è˜—àüÿÿÿÿ8ˆ×ì©í-H¶RBLOCKERZVULNERABILITY

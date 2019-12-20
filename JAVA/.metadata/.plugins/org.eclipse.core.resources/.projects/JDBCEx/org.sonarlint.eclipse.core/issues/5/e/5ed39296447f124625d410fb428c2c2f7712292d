@@ -1,0 +1,18 @@
+
+vsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»8ªıÌ„í-H¬RBLOCKERZBUG
+vsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(² €í8ªıÌ„í-H­RBLOCKERZBUG
+isquid:S1854"5Remove this useless assignment to local variable "r".(³æ°Ÿ8ò÷Ï„í-H®RMAJORZ
+CODE_SMELL
+”squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(Üµö…úÿÿÿÿ8ªıÌ„í-H¯RBLOCKERZVULNERABILITY
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡™ÚšûÿÿÿÿH°RMINORZ
+CODE_SMELL
+|squid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(şŠÎ¸úÿÿÿÿ8ªıÌ„í-H±RBLOCKERZBUG
+^squid:S2068" Remove this hard-coded password.(şŠÎ¸úÿÿÿÿ8ªıÌ„í-H²RBLOCKERZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8ªıÌ„í-H³RMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "r" local variable.(³æ°Ÿ8ò÷Ï„í-H´RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8ªıÌ„í-HµRMAJORZ
+CODE_SMELL

@@ -1,0 +1,15 @@
+
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿHîRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ò É8½â·ë-HïRMAJORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áëÈ…úÿÿÿÿ8îÌÌ·ë-HğRMINORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¥Äµøÿÿÿÿ8îÌÌ·ë-HñRMAJORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÖŞÿÿÿÿÿ8îÌÌ·ë-HòRMINORZ
+CODE_SMELL
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨üïÿÿÿÿÿ8½â·ë-HóRMINORZ
+CODE_SMELL

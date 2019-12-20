@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>FormValidation</title>
+</head>
+<body align="center"><br><br>
+	Age: <input type="text" name="a1" id="p1"><br>
+	<p id="p3"></p>
+	<input type="button" name="b1" id="p2" value="Check" onclick="Check()"><br><br>
+	<p id="p10"></p>
+
+	Password: <input type="password" name="c1" id="p4"><br><br>
+	Confirm Password: <input type="password" name="c2" id="p5">
+	<input type="button" name="b1" id="p6" value="Check" onclick="Password()"><br><br>
+
+	<script type="text/javascript">
+		function Check() {
+			//var x=parseInt(document.getElementById("A");
+			
+			if(isNaN(document.getElementById("p1").value))
+			{
+				document.getElementById("p3").innerHTML="Invalid Input";
+			}
+			else
+				document.getElementById("p3").innerHTML="OK";
+			}
+
+		function Password(){
+			if((document.getElementById("p4").value.length==0))
+			{
+				document.getElementById("p10").innerHTML="Enter Password"; 
+			}
+
+			if((document.getElementById("p4").value.length<8))
+			{
+				document.getElementById("p10").innerHTML="Low Password Strength"; 
+			}
+
+			if(document.getElementById("p4").value.length>8)
+			{
+				document.getElementById("p10").innerHTML="Good Password Strength"; 
+			}
+
+			if((document.getElementById("p4").value.length>8)&&(document.getElementById("p5").value.length>8))
+			if(document.getElementById("p4").value===document.getElementById("p5").value)
+			{
+				document.getElementById("p10").innerHTML="PasswordConfirmed"; 
+			}
+
+		}
+		
+
+
+
+	</script>
+
+</body>
+</html>

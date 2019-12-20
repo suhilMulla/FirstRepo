@@ -1,0 +1,152 @@
+
+l
+squid:S106H"9Replace this use of System.out or System.err by a logger.(œÃìı8öë™Íí-HÎRMAJORZ
+CODE_SMELL
+m
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(ü¼Ò«8“íñ©í-HÏRMAJORZ
+CODE_SMELL
+‡squid:S00117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÒŸ8¾ëë«í-HĞRMINORZ
+CODE_SMELL
+p"squid:SwitchLastCaseIsDefaultCheckN""Add a default case to this switch.(”å8“íñ©í-HÑRCRITICALZ
+CODE_SMELL
+fsquid:S1905…",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8“íñ©í-HÒRMINORZ
+CODE_SMELL
+m
+squid:S106“"9Replace this use of System.out or System.err by a logger.(…ÎÍ8“íñ©í-HÓRMAJORZ
+CODE_SMELL
+€squid:S11928"IDefine a constant instead of duplicating this literal "number 1" 4 times.(¬ç“Ñ8©À¦Ğí-HÔRCRITICALZ
+CODE_SMELL
+l
+squid:S106y"9Replace this use of System.out or System.err by a logger.(º—8“íñ©í-HÕRMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Ñæï­8“íñ©í-HÖRMAJORZ
+CODE_SMELL
+l
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¬ç“Ñ8“íñ©í-H×RMAJORZ
+CODE_SMELL
+q
+squid:S106F"9Replace this use of System.out or System.err by a logger.(Ï§®¿ûÿÿÿÿ8“íñ©í-HØRMAJORZ
+CODE_SMELL
+esquid:S19050",Remove this unnecessary cast to "Statement".(šÁÑüÿÿÿÿ8“íñ©í-HÙRMINORZ
+CODE_SMELL
+‹squid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ñ¾æùÿÿÿÿ8—¯²Ìí-HÚRMINORZ
+CODE_SMELL
+q
+squid:S106]"9Replace this use of System.out or System.err by a logger.(§ëÁµşÿÿÿÿ8“íñ©í-HÛRMAJORZ
+CODE_SMELL
+r
+squid:S106”"9Replace this use of System.out or System.err by a logger.(È“Š¾øÿÿÿÿ8ç†šĞí-HÜRMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ñ¨¢Ä8“íñ©í-HİRMAJORZ
+CODE_SMELL
+q
+squid:S106J"9Replace this use of System.out or System.err by a logger.(´¹Æßúÿÿÿÿ8“íñ©í-HŞRMAJORZ
+CODE_SMELL
+‹squid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕåØıÿÿÿÿ8“íñ©í-HßRMINORZ
+CODE_SMELL
+l
+squid:S106E"9Replace this use of System.out or System.err by a logger.(½‹¯¥8Ùà©Ìí-HàRMAJORZ
+CODE_SMELL
+‹squid:S00117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë¾İèüÿÿÿÿ8“íñ©í-HáRMINORZ
+CODE_SMELL
+fsquid:S1905†",Remove this unnecessary cast to "Statement".(ÄŒ–Ùşÿÿÿÿ8“íñ©í-HâRMINORZ
+CODE_SMELL
+l
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ë¿à8“íñ©í-HãRMAJORZ
+CODE_SMELL
+l
+squid:S1069"9Replace this use of System.out or System.err by a logger.(åõÉ’8“íñ©í-HäRMAJORZ
+CODE_SMELL
+m
+squid:S106Œ"9Replace this use of System.out or System.err by a logger.(†§Ê“8“íñ©í-HåRMAJORZ
+CODE_SMELL
+l
+squid:S106’"9Replace this use of System.out or System.err by a logger.(©ØÉN8“íñ©í-HæRMAJORZ
+CODE_SMELL
+m
+squid:S106•"9Replace this use of System.out or System.err by a logger.(˜Ú—º8ç†šĞí-HçRMAJORZ
+CODE_SMELL
+m
+squid:S106–"9Replace this use of System.out or System.err by a logger.(¾Îší8İÛ¡Ğí-HèRMAJORZ
+CODE_SMELL
+r
+squid:S106±"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8©À¦Ğí-HéRMAJORZ
+CODE_SMELL
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÕÁÃ¬8Ùà©Ìí-HêRMAJORZ
+CODE_SMELL
+q
+squid:S106I"9Replace this use of System.out or System.err by a logger.(²ÍÌûÿÿÿÿ8“íñ©í-HëRMAJORZ
+CODE_SMELL
+šsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(ÀË‘äşÿÿÿÿ8€Ñ¬Ìí-HìRMINORZ
+CODE_SMELL
+†squid:S00117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å­”¬8“íñ©í-HíRMINORZ
+CODE_SMELL
+l
+squid:S106;"9Replace this use of System.out or System.err by a logger.(¢Íú8“íñ©í-HîRMAJORZ
+CODE_SMELL
+l
+squid:S106C"9Replace this use of System.out or System.err by a logger.(œ¿¬º8“íñ©í-HïRMAJORZ
+CODE_SMELL
+q"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(é“¯Ê8“íñ©í-HğRCRITICALZ
+CODE_SMELL
+l
+squid:S106["9Replace this use of System.out or System.err by a logger.(ø¥ş8“íñ©í-HñRMAJORZ
+CODE_SMELL
+|squid:S2095…"GUse try-with-resources or close this "Statement" in a "finally" clause.(šÁÑüÿÿÿÿ8“íñ©í-HòRBLOCKERZBUG
+Wsquid:S2189""Add an end condition to this loop.(Šµ “ıÿÿÿÿ8“íñ©í-HóRBLOCKERZBUG
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÃÔ¦8“íñ©í-HôRMAJORZ
+CODE_SMELL
+q
+squid:S106="9Replace this use of System.out or System.err by a logger.(¯’øîúÿÿÿÿ8“íñ©í-HõRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8İÛ¡Ğí-HöRMAJORZ
+CODE_SMELL
+k
+squid:S106{"9Replace this use of System.out or System.err by a logger.(‡Õşo8“íñ©í-H÷RMAJORZ
+CODE_SMELL
+{squid:HiddenFieldCheck…"6Rename "st" which hides the field declared at line 16.(šÁÑüÿÿÿÿ8“íñ©í-HøRMAJORZ
+CODE_SMELL
+†squid:S00117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åß•Ô8“íñ©í-HùRMINORZ
+CODE_SMELL
+q
+squid:S106>"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8“íñ©í-HúRMAJORZ
+CODE_SMELL
+qsquid:S2589"7Remove this expression which always evaluates to "true"(Šµ “ıÿÿÿÿ8“íñ©í-HûRMAJORZ
+CODE_SMELL
+usquid:HiddenFieldCheck1"6Rename "rs" which hides the field declared at line 17.(² €í8“íñ©í-HüRMAJORZ
+CODE_SMELL
+l
+squid:S106B"9Replace this use of System.out or System.err by a logger.(­ÃÔ¦8“íñ©í-HıRMAJORZ
+CODE_SMELL
+q
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ã„íşûÿÿÿÿ8“íñ©í-HşRMAJORZ
+CODE_SMELL
+{squid:HiddenFieldCheck†"6Rename "rs" which hides the field declared at line 17.(ÄŒ–Ùşÿÿÿÿ8“íñ©í-HÿRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(çôğéüÿÿÿÿ8©À¦Ğí-H€RMAJORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(û†¦Şüÿÿÿÿ8“íñ©í-HRMAJORZ
+CODE_SMELL
+l
+squid:S106c"9Replace this use of System.out or System.err by a logger.(¸å»Ï8“íñ©í-H‚RMAJORZ
+CODE_SMELL
+q
+squid:S106K"9Replace this use of System.out or System.err by a logger.(–¤ıÊúÿÿÿÿ8“íñ©í-HƒRMAJORZ
+CODE_SMELL
+|squid:S2095†"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒ–Ùşÿÿÿÿ8“íñ©í-H„RBLOCKERZBUG
+k
+squid:S106b"9Replace this use of System.out or System.err by a logger.(à•È<8“íñ©í-H…RMAJORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(§‚øÿÿÿÿ8“íñ©í-H†RMAJORZ
+CODE_SMELL
+zsquid:HiddenFieldCheck0"6Rename "st" which hides the field declared at line 16.(šÁÑüÿÿÿÿ8“íñ©í-H‡RMAJORZ
+CODE_SMELL
+€squid:S00112v"FDefine and throw a dedicated exception instead of using a generic one.(®½×Æüÿÿÿÿ8“íñ©í-HˆRMAJORZ
+CODE_SMELL

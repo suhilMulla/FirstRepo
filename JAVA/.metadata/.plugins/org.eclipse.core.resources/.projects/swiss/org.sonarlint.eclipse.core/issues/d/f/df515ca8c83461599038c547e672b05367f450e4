@@ -1,0 +1,39 @@
+
+šsquid:UselessImportCheck"TRemove this unnecessary import: same package classes are always implicitly imported.(Åòìçøÿÿÿÿ8ü—ö©í-H‰RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªßşö8ü—ö©í-HŠRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(íê­…8ü—ö©í-H‹RMAJORZ
+CODE_SMELL
+Qsquid:S2189""Add an end condition to this loop.(ÏŞôÑ8ü—ö©í-HŒRBLOCKERZBUG
+ksquid:S2589"7Remove this expression which always evaluates to "true"(ÏŞôÑ8ü—ö©í-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ§¬üÿÿÿÿ8ü—ö©í-HRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ùÁ€úÿÿÿÿ8ü—ö©í-HRMAJORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ü—ö©í-HRINFOZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ§¬üÿÿÿÿ8ü—ö©í-H‘RMAJORZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ãËûÿÿÿÿ8ü—ö©í-H’RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê°á¸8ü—ö©í-H“RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(íê­…8ü—ö©í-H”RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïñ–ş8ü—ö©í-H•RMAJORZ
+CODE_SMELL
+€squid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À²Õ¥øÿÿÿÿH–RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıã­x8ü—ö©í-H—RMAJORZ
+CODE_SMELL

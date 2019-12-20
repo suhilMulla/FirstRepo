@@ -1,0 +1,7 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÚ¥8Ú¬Š¬ë-H•RMAJORZ
+CODE_SMELL
+ "squid:ClassVariableVisibilityCheck"RMake wheels a static final constant or non-public and provide accessors if needed.(ş”ÿÔ8Ú¬Š¬ë-H–RMINORZVULNERABILITY
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ñÚ÷úÿÿÿÿH—RMINORZ
+CODE_SMELL
