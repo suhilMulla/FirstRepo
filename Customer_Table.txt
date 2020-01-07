@@ -1,0 +1,44 @@
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET AUTOCOMMIT = 0;
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `indigo`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `student`
+--
+
+DROP TABLE IF EXISTS `customers`;
+CREATE TABLE IF NOT EXISTS `customers` (
+  `acc_no` int(11) NOT NULL AUTO_INCREMENT,
+  `acc_type` varchar(255) DEFAULT NULL,
+  `customer_email` varchar(255) DEFAULT NULL,
+   `phone_no` bigInt NOT NULL,
+	`balance` bigInt NOT NULL,
+  `customer_name` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`acc_no`)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=latin1;
+
+--
+-- Dumping data for table `student`
+--
+
+INSERT INTO `customers` (`acc_no`, `acc_type`, `customer_email`, `customer_name`,`phone_no`,`balance`) VALUES
+(100, 'Saving', 'dolly@gmail.com', 'Dolly',9538484999,100000),
+(101, 'Current', 'sonoo@gmail.com', 'sonoo',1234569870,15000);
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
